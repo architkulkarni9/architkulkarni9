@@ -1,0 +1,4 @@
+Today is Friday
+Month is October
+Tomorrow is Milestone
+Bye Bye
